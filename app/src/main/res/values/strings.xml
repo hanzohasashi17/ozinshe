@@ -1,0 +1,37 @@
+<resources>
+    // APP
+    <string name="app_name">Ozinshe v.2</string>
+
+    // onboarding
+    <string name="onboarding_title">ÖZINŞE-ге қош келдің!</string>
+    <string name="onboarding_text1">Фильмдер, телехикаялар, ситкомдар, анимациялық жобалар,  телебағдарламалар мен реалити-шоулар, аниме және тағы басқалары</string>
+    <string name="onboarding_text2">Кез келген құрылғыдан қара. \n Сүйікті фильміңді  қосымша төлемсіз телефоннан, планшеттен, ноутбуктан қара</string>
+    <string name="onboarding_text3">Тіркелу оңай. Қазір тіркел де қалаған фильміңе қол жеткіз</string>
+    <string name="onboarding_skip_button">Өткізу</string>
+    <string name="onboarding_next_button">Әрі қарай</string>
+
+    // login
+    <string name="login_title">Сәлем</string>
+    <string name="login_desc">Аккаунтқа кіріңіз</string>
+    <string name="email">Email</string>
+    <string name="email_ph">Сіздің email</string>
+    <string name="passw">Құпия сөз</string>
+    <string name="passw_ph">Сіздің құпия сөзіңіз</string>
+    <string name="login_passw_forget">Құпия сөзді ұмыттыңыз ба?</string>
+    <string name="login_btn">Кіру</string>
+    <string name="to_reg">Аккаунтыңыз жоқ па?</string>
+    <string name="login_or">Немесе</string>
+    <string name="login_btn_to_reg">Тіркелу</string>
+    <string name="login_via_google">Google-мен тіркеліңіз</string>
+
+    // register
+    <string name="register_title">Тіркелу</string>
+    <string name="register_desc">Деректерді толтырыңыз</string>
+    <string name="register_passw_again">Құпия сөзді қайталаңыз</string>
+    <string name="register_btn">Кіру</string>
+    <string name="to_login">Сізде аккаунт бар ма?</string>
+    <string name="register_btn_to_login">Кіру</string>
+
+
+
+</resources>
